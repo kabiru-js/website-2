@@ -9,7 +9,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'Apex Dental Clinic | Premium Dental Care in Nigeria',
   description: 'Apex Dental Clinic offers professional dental services including general dentistry, cosmetic dentistry, orthodontics, and implants in Nigeria.',
-  generator: 'v0.app',
   icons: {
     icon: [
       {
